@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Alt Mailing
+## Notes: An arrow next to the mail To: box lists your alts. Star one and it fills in every time.
+## Author: miyanko
+## Version: @project-version@
+## Category: Mail
+## IconTexture: Interface\MailFrame\Mail-Icon
+## SavedVariables: AltMailingDB
+
+AltMailing.lua
